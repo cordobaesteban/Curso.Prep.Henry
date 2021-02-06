@@ -1,0 +1,12 @@
+Variables: Una variable es para guardar cosas dentro.
+
+Strings: Un strings es un hilo de letras
+
+Funciones: Una funcion sirve para agrupar codigos que usemos muchas veces.
+  Argumentos: Son como variables que declaramos dentro de la funcion.
+  Return: Devuelve un valor a la funcion.
+
+Valores Boleanos: Los valores boleanos se definen como verdadero o falso (true o false) .
+
+Declaraciones if: Le dice al programa que ejecute un bloque de código.
+
